@@ -1,8 +1,8 @@
-# Programação Mobile com React Native (NFT07)
+# Programação Web I (NFT07)
 
 ## Ementa
 
-Esta disciplina introduz o desenvolvimento mobile multiplataforma utilizando [React Native](https://reactnative.dev/). Serão abordados conceitos teóricos sobre a história do desenvolvimento mobile, evolução das tecnologias e o mercado de trabalho atual. O curso terá uma abordagem prática, com foco no desenvolvimento de aplicativos móveis para Android e iOS, utilizando JavaScript e React Native, sem a necessidade de publicação em lojas de aplicativos.
+Esta disciplina introduz o desenvolvimento web, com foco em HTML e CSS básicos, seguido por uma imersão em JavaScript, APIs e o uso de [React](https://reactjs.org/) para a criação de aplicações web dinâmicas. O curso terá uma abordagem prática, com desenvolvimento de projetos que evoluem ao longo das aulas.
 
 ### Carga Horária
 
@@ -14,40 +14,36 @@ Esta disciplina introduz o desenvolvimento mobile multiplataforma utilizando [Re
 
 ## Objetivo Geral
 
-Desenvolver aplicativos mobile multiplataforma utilizando React Native, explorando os recursos e boas práticas do desenvolvimento mobile moderno.
+Desenvolver sites estáticos e aplicativos web dinâmicos, utilizando JavaScript e React, com foco em funcionalidades modernas e consumo de APIs.
 
 ## Objetivos Específicos
 
-- Compreender a evolução e o panorama atual do desenvolvimento mobile;
-- Conhecer a história e os fundamentos do React Native;
-- Configurar o ambiente de desenvolvimento para React Native;
-- Desenvolver interfaces de usuário responsivas e acessíveis;
-- Consumir APIs e integrar recursos nativos dos dispositivos móveis;
-- Aplicar boas práticas de desenvolvimento e otimização em aplicativos mobile.
+- Especificar documentos utilizando **HTML**;
+- Estilizar documentos utilizando regras de **CSS**;
+- Implementar interatividade com **JavaScript**;
+- Consumir **APIs** utilizando JavaScript;
+- Desenvolver interfaces dinâmicas com **React**.
 
 ## Conteúdos Principais
 
-- História do desenvolvimento mobile
-- Evolução das tecnologias mobile
-- Introdução ao React Native
-- Configuração do ambiente de desenvolvimento
-- Componentes e APIs do React Native
-- Navegação entre telas
-- Consumo de APIs e gerenciamento de estado
-- Integração com recursos nativos (câmera, geolocalização, etc.)
-- Boas práticas e otimização de performance
+- Desenvolvimento web
+- Aplicações cliente/servidor
+- HTML e CSS básicos
+- JavaScript para interatividade
+- APIs e integração com back-end
+- React (biblioteca front-end)
 
 ## Bibliografia Básica
 
-- NAZARETH, Renato. [**Desenvolvimento Mobile com React Native**](https://novatec.com.br/livros/desenvolvimento-mobile-react-native/). Novatec, 2019.
-- AKINGBULUBO, John. **React Native - Aprenda a Desenvolver Aplicativos Nativos para Android e iOS**. Alta Books, 2020.
-- MONGE, Héctor. **Dominando o React Native**. Novatec, 2021.
+- SILVA, Maurício Samy. [**HTML5 - A Linguagem de Marcação que Revolucionou a Web**](https://novatec.com.br/livros/html5-linguagem-marcacao-revolucionou-web/). Novatec, 2011.
+- NIEDERAUER, Juliano. [**Desenvolvendo Web Sites com PHP**](https://novatec.com.br/livros/desenvolvendo-web-sites-com-php/). Novatec, 2011.
+- DALL'OGLIO, Pablo. [**Criando Relatórios com PHP - Inclui Exemplos Práticos**](https://novatec.com.br/livros/criando-relatorios-php/). 2ª ed. Novatec, 2013.
 
 ## Bibliografia Complementar
 
-- FACEBOOK INC. [**Documentação Oficial do React Native**](https://reactnative.dev/docs/getting-started). 2023.
-- MEIER, Ralf. **Desenvolvimento de Aplicativos Móveis**. Ciência Moderna, 2018.
-- SAMSUNG. **Introdução ao Desenvolvimento Móvel**. Casa do Código, 2017.
+- NORTH, Barrie M. [**Joomla! 1.5: Guia do Operador: Construindo um Site Web de Sucesso com Joomla!**](https://www.altabooks.com.br/produto/joomla-1-5-guia-do-operador/). 2ª ed. Alta Books, 2010.
+- WEINMAN, Lynda; WEINMAN, William. **Design Criativo com HTML 2: Um Guia Prático e Completo para Design na Web**. Ciência Moderna, 2002.
+- ALMEIDA, Adriano; SILVEIRA, Paulo. [**Lógica de Programação: Crie Seus Primeiros Programas Usando JavaScript e HTML**](https://www.casadocodigo.com.br/products/livro-logica-programacao). Casa do Código, 2012.
 
 ## Avaliação
 
@@ -55,8 +51,8 @@ A nota final da disciplina será composta da seguinte forma:
 
 - **20%** - Trabalhos (projetos e atividades práticas) - **T**
 - **20%** - Atividades em sala (exercícios, participação) - **AS**
-- **40%** - Provas (avaliações teóricas e práticas) - **P**
-- **20%** - **NC** (Nota de Caráter)
+- **40%** - Prova (avaliação teórica e prática) - **P**
+- **20%** - **NC** (Nota de Cara)
 
 A fórmula para o cálculo da nota final (**NF**) é:
 
@@ -76,97 +72,95 @@ Então:
 
 NF = (0,20 × 8,0) + (0,20 × 9,0) + (0,40 × 7,5) + (0,20 × 10,0) NF = 1,6 + 1,8 + 3,0 + 2,0 NF = 8,4
 
-
 ## Boas Práticas e Links Úteis
 
-- Utilize a [documentação oficial do React Native](https://reactnative.dev/docs/getting-started) como referência.
-- Consulte a [MDN Web Docs](https://developer.mozilla.org/pt-BR/) para aprofundar-se em JavaScript.
+- Utilize a [documentação oficial do React](https://reactjs.org/docs/getting-started.html) como referência.
+- Consulte a [MDN Web Docs](https://developer.mozilla.org/pt-BR/) para aprofundar-se em JavaScript, HTML e CSS.
 - Mantenha seu código organizado e comentado.
 - Utilize ferramentas de versionamento, como [Git](https://git-scm.com/), para controlar as versões do seu projeto.
-- Pratique regularmente e explore recursos adicionais como [React Native School](https://reactnativeschool.com/) e [Rocketseat](https://www.rocketseat.com.br/).
+- Pratique regularmente e explore recursos adicionais como [FreeCodeCamp](https://www.freecodecamp.org/) e [W3Schools](https://www.w3schools.com/).
 
 ## Notas Importantes
 
 - **Participação**: A participação ativa nas aulas e nas atividades propostas é fundamental para o aproveitamento da disciplina.
 - **Prazos**: Os trabalhos e projetos devem ser entregues nos prazos estipulados para que sejam considerados na avaliação.
 - **Recursos Adicionais**: Fiquem atentos aos materiais complementares que serão disponibilizados ao longo do curso.
-- **Avaliações**: As provas serão realizadas nas aulas 7 e 14, divididas em metade da aula para prova teórica e metade para prova prática.
-- **Observação**: Não será necessária a publicação dos aplicativos em lojas como Google Play Store ou Apple App Store.
+- **Avaliações**: As provas serão realizadas nas aulas 6 e 15, divididas em metade da aula para prova teórica e metade para prova prática.
 
 ## Estrutura de Aulas
 
-1. **Aula 1: História do Desenvolvimento Mobile**
-   - Evolução dos dispositivos móveis
-   - Principais sistemas operacionais e plataformas
-   - Tendências atuais no desenvolvimento mobile
+1. **Aula 1: Introdução ao Desenvolvimento Web**
+   - Revisão rápida de HTML e CSS
+   - Estrutura básica de uma página web
+   - Criação de uma página simples com HTML e CSS
 
-2. **Aula 2: Introdução ao React Native**
-   - História e evolução do React Native
-   - Vantagens e desvantagens
-   - Comparação com outras tecnologias (Flutter, Ionic)
+2. **Aula 2: Introdução ao JavaScript**
+   - Conceitos básicos: variáveis, tipos de dados e operadores
+   - Manipulação do DOM (Document Object Model)
+   - Inserção de scripts em páginas HTML
 
-3. **Aula 3: Configuração do Ambiente de Desenvolvimento**
-   - Instalação do Node.js e npm
-   - Configuração do Android Studio e/ou Xcode
-   - Utilização do Expo CLI e React Native CLI
+3. **Aula 3: Funções e Eventos em JavaScript**
+   - Declaração e invocação de funções
+   - Manipulação de eventos (click, submit, etc.)
+   - Validação simples de formulários
 
-4. **Aula 4: Fundamentos do React Native**
-   - Estrutura de um projeto React Native
-   - Componentes básicos (View, Text, Image)
-   - Estilização com StyleSheet
+4. **Aula 4: Arrays e Objetos em JavaScript**
+   - Criação e manipulação de arrays
+   - Criação de objetos e acesso a propriedades
+   - Iteração com loops (`for`, `while`)
 
-5. **Aula 5: Layouts e Flexbox**
-   - Conceitos de Flexbox no React Native
-   - Criação de layouts responsivos
-   - Prática de desenvolvimento de interfaces
+5. **Aula 5: Consumo de APIs com JavaScript**
+   - Introdução a APIs e formatos de dados (JSON)
+   - Requisições HTTP usando `fetch` API
+   - Manipulação e apresentação de dados recebidos
 
-6. **Aula 6: Componentes e APIs Nativos**
-   - Utilização de componentes como ScrollView, TextInput, Button
-   - Acesso a APIs nativas (Alert, Clipboard)
-   - Gerenciamento de recursos e assets
-
-7. **Aula 7: **Avaliação 1**
-   - **Metade da aula**: Prova teórica (conteúdos das aulas 1 a 6)
+6. **Aula 6: Avaliação 1**
+   - **Metade da aula**: Prova teórica (conteúdos das aulas 1 a 5)
    - **Metade da aula**: Prova prática (exercícios de programação)
 
-8. **Aula 8: Navegação entre Telas**
-   - Introdução ao React Navigation
-   - Navegação stack, tab e drawer
-   - Passagem de parâmetros entre telas
+7. **Aula 7: Introdução ao React**
+   - Conceitos fundamentais do React
+   - Configuração do ambiente com `create-react-app`
+   - Criação do primeiro componente React
 
-9. **Aula 9: Consumo de APIs e Axios**
-   - Requisições HTTP com Axios ou Fetch API
-   - Manipulação de dados JSON
-   - Atualização da interface com dados externos
+8. **Aula 8: JSX e Componentes**
+   - Sintaxe JSX
+   - Componentes funcionais e composição de componentes
+   - Boas práticas de organização
 
-10. **Aula 10: Gerenciamento de Estado**
-    - Introdução ao Redux ou Context API
-    - Gerenciamento de estado global
-    - Boas práticas de organização
+9. **Aula 9: Estado e Ciclo de Vida dos Componentes**
+   - Uso do `useState` para gerenciamento de estado
+   - Ciclo de vida de componentes
+   - Atualização e renderização de componentes
 
-11. **Aula 11: Integração com Recursos Nativos**
-    - Acesso à câmera e galeria de fotos
-    - Utilização de geolocalização
-    - Notificações push (conceitos básicos)
+10. **Aula 10: Comunicação entre Componentes**
+    - Passagem de dados via `props`
+    - Levantamento de estado ("lifting state up")
+    - Padrões de comunicação entre componentes
 
-12. **Aula 12: Otimização e Performance**
-    - Melhores práticas para performance
-    - Análise e debugging de aplicativos
-    - Técnicas de otimização de imagens e assets
+11. **Aula 11: Hooks e Efeitos Colaterais**
+    - Introdução aos Hooks do React
+    - Uso do `useEffect` para efeitos colaterais
+    - Regras de Hooks e boas práticas
 
-13. **Aula 13: Publicação e Distribuição Interna**
-    - Geração de builds para Android e iOS
-    - Testes em dispositivos físicos
-    - Distribuição interna sem necessidade de lojas
+12. **Aula 13: Integração com APIs no React**
+    - Fetching de dados dentro de componentes React
+    - Manipulação de estados de carregamento e erro
+    - Exibição dinâmica de dados na interface
 
-14. **Aula 14: **Avaliação 2**
-    - **Metade da aula**: Prova teórica (conteúdos das aulas 8 a 13)
-    - **Metade da aula**: Prova prática (exercícios com React Native)
+13. **Aula 14: Roteamento em React**
+    - Introdução ao `react-router-dom`
+    - Configuração de rotas e navegação
+    - Rotas aninhadas e parâmetros de rota
 
-15. **Aula 15: Mercado de Trabalho e Boas Práticas**
-    - Panorama do mercado de desenvolvimento mobile
-    - Preparação para entrevistas técnicas
-    - Construção de portfólio e projetos pessoais
+14. **Aula 15: Estilização de Componentes**
+    - CSS Modules
+    - Styled Components
+    - Frameworks de UI (Material-UI, Bootstrap)
+
+15. **Aula 12: Avaliação 2**
+    - **Metade da aula**: Prova teórica (conteúdos das aulas 7 a 14)
+    - **Metade da aula**: Prova prática (exercícios com React)
 
 16. **Aula 16: Projeto Final e Apresentação**
     - Finalização do projeto prático
@@ -175,14 +169,10 @@ NF = (0,20 × 8,0) + (0,20 × 9,0) + (0,40 × 7,5) + (0,20 × 10,0) NF = 1,6 + 1
 
 ---
 
+
 **Observações**:
 
-- As aulas iniciais focam em conteúdo teórico para contextualizar os alunos no universo do desenvolvimento mobile e do React Native.
-- Como os alunos já possuem base em JavaScript, o foco será no desenvolvimento prático com React Native.
-- Os links fornecidos foram verificados e estão corretos.
-- As avaliações estão distribuídas nas aulas 7 e 14, conforme solicitado.
-
+- As avaliações serão realizadas nas aulas 6 e 15, cada uma composta de prova teórica e prática.
+- Certifique-se de estar presente nas datas das avaliações e de estar em dia com os conteúdos anteriores.
+- Existe a possibilidade de ter alguma alteração, por poder haver algum feriado ou algo nesse sentido.
 ---
-
-*Última atualização: [Data da última atualização, se necessário]*
-
