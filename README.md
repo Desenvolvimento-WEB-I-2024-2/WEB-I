@@ -45,32 +45,43 @@ Desenvolver sites estáticos e aplicativos web dinâmicos, utilizando JavaScript
 - WEINMAN, Lynda; WEINMAN, William. **Design Criativo com HTML 2: Um Guia Prático e Completo para Design na Web**. Ciência Moderna, 2002.
 - ALMEIDA, Adriano; SILVEIRA, Paulo. [**Lógica de Programação: Crie Seus Primeiros Programas Usando JavaScript e HTML**](https://www.casadocodigo.com.br/products/livro-logica-programacao). Casa do Código, 2012.
 
-## Avaliação
 
-A nota final da disciplina será composta da seguinte forma:
+## Avaliações (NF)
 
-- **20%** - Trabalhos (projetos e atividades práticas) - **T**
-- **20%** - Atividades em sala (exercícios, participação) - **AS**
-- **40%** - Prova (avaliação teórica e prática) - **P**
-- **20%** - **NC** (Nota de Cara)
+Considerando:
+- **Prova** com peso de 20%;
+- **Atividades AVA e sala** com peso de 20%;
+- **Seminário** com peso de 20%;
+- **Trabalho de Extensão** com peso de 20%;
+- **NC (Nota de Cara)** com peso de 20%.
 
-A fórmula para o cálculo da nota final (**NF**) é:
+### Fórmula Geral:
 
-NF = (0,20 × T) + (0,20 × AS) + (0,40 × P) + (0,20 × NC)
+NF = (0,20 × P) + (0,20 × AVA) + (0,20 × S) + (0,20 × TE) + (0,20 × NC)
 
+#### Onde:
+- **P** = Nota da prova;
+- **AVA** = Média das atividades AVA e de sala;
+- **S** = Nota do seminário;
+- **TE** = Nota do trabalho de extensão;
+- **NC** = Nota de Cara.
 
-**Exemplo de cálculo**:
+### Exemplo de Cálculo:
 
 Se um aluno obteve as seguintes notas:
 
-- **T** = 8,0
-- **AS** = 9,0
-- **P** = 7,5
+- **P** = 8,0
+- **AVA** = 9,0
+- **S** = 7,5
+- **TE** = 9,5
 - **NC** = 10,0
 
 Então:
 
-NF = (0,20 × 8,0) + (0,20 × 9,0) + (0,40 × 7,5) + (0,20 × 10,0) NF = 1,6 + 1,8 + 3,0 + 2,0 NF = 8,4
+NF = (0,20 × 8,0) + (0,20 × 9,0) + (0,20 × 7,5) + (0,20 × 9,5) + (0,20 × 10,0)
+
+NF = 1,6 + 1,8 + 1,5 + 1,9 + 2,0 = **8,8**
+
 
 ## Boas Práticas e Links Úteis
 
@@ -87,85 +98,64 @@ NF = (0,20 × 8,0) + (0,20 × 9,0) + (0,40 × 7,5) + (0,20 × 10,0) NF = 1,6 + 1
 - **Recursos Adicionais**: Fiquem atentos aos materiais complementares que serão disponibilizados ao longo do curso.
 - **Avaliações**: As provas serão realizadas nas aulas 6 e 15, divididas em metade da aula para prova teórica e metade para prova prática.
 
-## Estrutura de Aulas
+## Estrutura de Aulas (Início: 23/09/2024 – Encerramento: 02/12/2024)
 
-1. **Aula 1: Introdução ao Desenvolvimento Web**
-   - Revisão rápida de HTML e CSS
-   - Estrutura básica de uma página web
-   - Criação de uma página simples com HTML e CSS
+1. **Aula 1: Introdução ao Desenvolvimento Web** – *23/09/2024*
+   - Revisão rápida de HTML e CSS.
+   - Estrutura básica de uma página web.
+   - Criação de uma página simples com HTML e CSS.
 
-2. **Aula 2: Introdução ao JavaScript**
-   - Conceitos básicos: variáveis, tipos de dados e operadores
-   - Manipulação do DOM (Document Object Model)
-   - Inserção de scripts em páginas HTML
+2. **Aula 2: Introdução ao JavaScript** – *30/09/2024*
+   - Conceitos básicos: variáveis, tipos de dados e operadores.
+   - Manipulação do DOM (Document Object Model).
+   - Inserção de scripts em páginas HTML.
 
-3. **Aula 3: Funções e Eventos em JavaScript**
-   - Declaração e invocação de funções
-   - Manipulação de eventos (click, submit, etc.)
-   - Validação simples de formulários
+3. **Aula 3: Funções e Eventos em JavaScript** – *07/10/2024*
+   - Declaração e invocação de funções.
+   - Manipulação de eventos (click, submit, etc.).
+   - Validação simples de formulários.
 
-4. **Aula 4: Arrays e Objetos em JavaScript**
-   - Criação e manipulação de arrays
-   - Criação de objetos e acesso a propriedades
-   - Iteração com loops (`for`, `while`)
+4. **Aula 4: Arrays, Objetos e Loops em JavaScript - Consumo de APIs com JavaScript** – *14/10/2024*
+   - Criação e manipulação de arrays.
+   - Criação de objetos e acesso a propriedades.
+   - Iteração com loops (`for`, `while`).
+   - Introdução a APIs e formatos de dados (JSON).
+   - Requisições HTTP usando `fetch` API.
+   - Manipulação e apresentação de dados recebidos.
 
-5. **Aula 5: Consumo de APIs com JavaScript**
-   - Introdução a APIs e formatos de dados (JSON)
-   - Requisições HTTP usando `fetch` API
-   - Manipulação e apresentação de dados recebidos
+5. **Aula 5: Seminário (Avaliação)** – *21/10/2024*
+   - Apresentação de seminários pelos alunos sobre os temas das aulas anteriores.
+   - Discussão em grupo e feedback.
 
-6. **Aula 6: Avaliação 1**
-   - **Metade da aula**: Prova teórica (conteúdos das aulas 1 a 5)
-   - **Metade da aula**: Prova prática (exercícios de programação)
+6. **Aula 6: Introdução ao React** – *30/10/2024*
+   - Conceitos fundamentais do React.
+   - Configuração do ambiente com `create-react-app`.
+   - Criação do primeiro componente React.
+   - Sintaxe JSX.
+   - Componentes funcionais e composição de componentes.
 
-7. **Aula 7: Introdução ao React**
-   - Conceitos fundamentais do React
-   - Configuração do ambiente com `create-react-app`
-   - Criação do primeiro componente React
+7. **Aula 7: React** – *18/11/2024*
+   - Uso do `useState` para gerenciamento de estado.
+   - Consumindo API usando react.
 
-8. **Aula 8: JSX e Componentes**
-   - Sintaxe JSX
-   - Componentes funcionais e composição de componentes
-   - Boas práticas de organização
+9. **Aula 9: Trabalho de Extensão e Atividades** – *25/11/2024*
+   - **Prova final** teórica e prática, cobrindo os conteúdos de React e integração de APIs.
+   - Avaliação das atividades realizadas no AVA e sala de aula.
+   
+10. **Aula 10: Entrega trabalho e Nota de Cara (NC)** – *02/12/2024*
+    - Entrega do **trabalho de extensão** (site pessoal).
+    - Apresentação final do projeto prático (site pessoal).
+    - Revisão dos conceitos com base nos trabalhos apresentados.
+    - Atribuição da **Nota de Cara** (comportamento, engajamento e participação).
 
-9. **Aula 9: Estado e Ciclo de Vida dos Componentes**
-   - Uso do `useState` para gerenciamento de estado
-   - Ciclo de vida de componentes
-   - Atualização e renderização de componentes
+---
 
-10. **Aula 10: Comunicação entre Componentes**
-    - Passagem de dados via `props`
-    - Levantamento de estado ("lifting state up")
-    - Padrões de comunicação entre componentes
-
-11. **Aula 11: Hooks e Efeitos Colaterais**
-    - Introdução aos Hooks do React
-    - Uso do `useEffect` para efeitos colaterais
-    - Regras de Hooks e boas práticas
-
-12. **Aula 13: Integração com APIs no React**
-    - Fetching de dados dentro de componentes React
-    - Manipulação de estados de carregamento e erro
-    - Exibição dinâmica de dados na interface
-
-13. **Aula 14: Roteamento em React**
-    - Introdução ao `react-router-dom`
-    - Configuração de rotas e navegação
-    - Rotas aninhadas e parâmetros de rota
-
-14. **Aula 15: Estilização de Componentes**
-    - CSS Modules
-    - Styled Components
-    - Frameworks de UI (Material-UI, Bootstrap)
-
-15. **Aula 12: Avaliação 2**
-    - **Metade da aula**: Prova teórica (conteúdos das aulas 7 a 14)
-    - **Metade da aula**: Prova prática (exercícios com React)
-
-16. **Aula 16: Projeto Final e Apresentação**
-    - Finalização do projeto prático
-    - Revisão dos conceitos aprendidos
-    - Apresentação dos projetos desenvolvidos
+### Datas de Avaliação:
+- **Seminário (S1)**: *21/10/2024*
+- **Atividades (A1)**: *18/11/2024*
+- **Trabalho de Extensão (T1)**: *18/11/2024*
+- **Prova Final (P1)**: *25/11/2024*
+- **Nota de Cara (NK)**: *02/12/2024*
 
 ---
 
