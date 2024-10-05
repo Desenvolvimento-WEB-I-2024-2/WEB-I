@@ -46,47 +46,102 @@ Desenvolver sites estáticos e aplicativos web dinâmicos, utilizando JavaScript
 - ALMEIDA, Adriano; SILVEIRA, Paulo. [**Lógica de Programação: Crie Seus Primeiros Programas Usando JavaScript e HTML**](https://www.casadocodigo.com.br/products/livro-logica-programacao). Casa do Código, 2012.
 
 
-## Avaliações (NF)
+## Estrutura de Aulas (20 Aulas)
 
-Considerando:
-- **Prova 1** com peso de 10%;
-- **Prova 2** com peso de 10%;
-- **Atividades AVA e sala** com peso de 20%;
-- **Seminário 1** com peso de 10%;
-- **Seminário 2** com peso de 10%;
-- **Trabalho de Extensão** com peso de 20%;
-- **NC (Nota de Cara)** com peso de 20%.
+### **1. Aula 1: História e Configuração do Ambiente**
+   - História do desenvolvimento mobile.
+   - Evolução dos dispositivos móveis e principais plataformas.
+   - Configuração do ambiente de desenvolvimento (Node.js, npm, Android Studio, Xcode, Expo CLI, React Native CLI).
 
-### Fórmula Geral:
+### **2. Aula 2: Fundamentos de Dispositivos Móveis e React Native**
+   - Características dos dispositivos móveis: telas pequenas, sensores e recursos de hardware.
+   - Introdução ao React Native: estrutura de um projeto.
+   - Componentes básicos (View, Text, Image).
+   - Estilização com StyleSheet.
 
-NF = (0,10 × P1) + (0,10 × P2) + (0,20 × AVA) + (0,10 × S1) + (0,10 × S2) + (0,20 × TE) + (0,20 × NC)
+### **3. Aula 3: Layouts e Flexbox em Dispositivos Móveis**
+   - Conceitos de Flexbox no React Native.
+   - Criação de layouts responsivos para diferentes tamanhos de tela.
+   - Prática de desenvolvimento de interfaces flexíveis.
 
-#### Onde:
-- **P1** = Nota da Prova 1;
-- **P2** = Nota da Prova 2;
-- **AVA** = Média das atividades AVA e de sala;
-- **S1** = Nota do Seminário 1;
-- **S2** = Nota do Seminário 2;
-- **TE** = Nota do Trabalho de Extensão;
-- **NC** = Nota de Cara.
+### **4. Aula 4: Interação com Componentes e APIs Nativos**
+   - Utilização de componentes interativos como ScrollView, TextInput, Button.
+   - Acesso a APIs nativas (Alert, Clipboard).
+   - Gerenciamento de recursos e assets.
 
-### Exemplo de Cálculo:
+### **5. Aula 5: Desenvolvimento de Interfaces Mobile**
+   - Prática de desenvolvimento de interfaces avançadas para mobile.
+   - Introdução à animação de elementos de UI.
+   - Estilização avançada com CSS e bibliotecas de terceiros.
 
-Se um aluno obteve as seguintes notas:
+### **6. Aula 6: Revisão e Seminário 1**
+   - Revisão dos conteúdos abordados nas aulas anteriores.
+   - Apresentação de **Seminário 1** pelos alunos sobre temas relacionados a dispositivos móveis e desenvolvimento com React Native.
+   - Discussão em grupo e feedback.
 
-- **P1** = 8,0
-- **P2** = 7,5
-- **AVA** = 9,0
-- **S1** = 7,5
-- **S2** = 8,5
-- **TE** = 9,5
-- **NC** = 10,0
+### **7. Aula 7: Avaliação 1**
+   - **Metade da aula**: Prova teórica (conteúdos das aulas 1 a 5).
+   - **Metade da aula**: Prova prática (exercícios de programação com React Native).
 
-Então:
+### **8. Aula 8: Navegação entre Telas no React Native**
+   - Introdução ao React Navigation.
+   - Navegação stack, tab e drawer.
+   - Passagem de parâmetros entre telas.
 
-NF = (0,10 × 8,0) + (0,10 × 7,5) + (0,20 × 9,0) + (0,10 × 7,5) + (0,10 × 8,5) + (0,20 × 9,5) + (0,20 × 10,0)
+### **9. Aula 9: Consumo de APIs com Axios ou Fetch API**
+   - Requisições HTTP com Axios ou Fetch API.
+   - Manipulação de dados JSON.
+   - Atualização da interface com dados externos.
 
-NF = 0,8 + 0,75 + 1,8 + 0,75 + 0,85 + 1,9 + 2,0 = **8,85**
+### **10. Aula 10: Gerenciamento de Estado em Aplicações Mobile**
+   - Introdução ao Redux e Context API.
+   - Gerenciamento de estado global em React Native.
+   - Boas práticas de organização de estado em aplicações móveis.
+
+### **11. Aula 11: Integração com Recursos Nativos e Sensores**
+   - Acesso à câmera e galeria de fotos.
+   - Utilização de geolocalização e sensores móveis.
+   - Introdução a notificações push.
+
+### **12. Aula 12: Desempenho em Aplicações Mobile**
+   - Melhores práticas para otimização de performance em aplicativos React Native.
+   - Análise e debugging de aplicativos mobile.
+   - Técnicas de otimização de imagens e assets.
+
+### **13. Aula 13: Publicação e Distribuição de Aplicativos**
+   - Geração de builds para Android e iOS.
+   - Testes em dispositivos físicos e emuladores.
+   - Processos de distribuição interna sem necessidade de lojas de aplicativos.
+
+### **14. Aula 14: Boas Práticas em Aplicativos Mobile**
+   - Padrões de design para interfaces móveis.
+   - Acessibilidade em aplicativos móveis.
+   - Preparação para entrevistas técnicas no mercado de trabalho.
+
+### **15. Aula 15: Introdução a Aplicações Multiplataforma**
+   - Comparação entre React Native, Flutter e outras ferramentas de desenvolvimento multiplataforma.
+   - Vantagens e desvantagens das abordagens multiplataforma.
+
+### **16. Aula 16: Revisão Geral e Prática**
+   - Revisão dos conceitos abordados até agora.
+   - Sessão prática de desenvolvimento com React Native.
+
+### **17. Aula 17: Desenvolvimento do Projeto Final**
+   - Início do desenvolvimento do projeto prático individual.
+   - Aplicação dos conceitos de React Native, consumo de APIs e navegação.
+
+### **18. Aula 18: Seminário 2**
+   - Apresentação de **Seminário 2** pelos alunos.
+   - Discussão sobre temas avançados e desafios no desenvolvimento mobile.
+
+### **19. Aula 19: Prova 2**
+   - **Metade da aula**: Prova teórica (conteúdos das aulas 8 a 18).
+   - **Metade da aula**: Prova prática (exercícios com React Native).
+
+### **20. Aula 20: Entrega do Trabalho de Extensão e Nota de Cara**
+   - Entrega e apresentação final do trabalho de extensão (projeto prático).
+   - Atribuição da **Nota de Cara** (comportamento, engajamento e participação).
+
 
 
 ## Boas Práticas e Links Úteis
