@@ -161,8 +161,6 @@ NF = 1,6 + 1,8 + 1,5 + 1,9 + 2,0 = **8,8**
 
 
 **Observações**:
-
-- As avaliações serão realizadas nas aulas 6 e 15, cada uma composta de prova teórica e prática.
 - Certifique-se de estar presente nas datas das avaliações e de estar em dia com os conteúdos anteriores.
 - Existe a possibilidade de ter alguma alteração, por poder haver algum feriado ou algo nesse sentido.
 ---
