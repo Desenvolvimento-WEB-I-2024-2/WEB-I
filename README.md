@@ -106,8 +106,6 @@ NF = 0,8 + 0,75 + 1,8 + 0,75 + 0,85 + 1,9 + 2,0 = **8,85**
 
 ## Estrutura de Aulas (23/09/2024 a 08/03/2025)
 
-## Estrutura de Aulas (20 encontros)
-
 ### **1. Aula 1: Introdução ao Desenvolvimento Web**
    - Revisão rápida de HTML e CSS.
    - Estrutura básica de uma página web.
@@ -168,25 +166,25 @@ NF = 0,8 + 0,75 + 1,8 + 0,75 + 0,85 + 1,9 + 2,0 = **8,85**
    - Criação de rotas e navegação entre páginas.
    - Rotas aninhadas e passagem de parâmetros.
 
-### **14. Aula 14: Revisão Geral e Seminário (2)**
-   - Revisão dos conteúdos abordados nas aulas 8 a 13.
-   - Apresentação de seminários pelos alunos.
-   - Discussão em grupo e feedback.
-
-### **15. Aula 15: Prova 2**
-   - Prova teórica e prática sobre os conteúdos das aulas 8 a 13.
-
-### **16. Aula 16: Estilização de Componentes com CSS**
+### **14. Aula 16: Estilização de Componentes com CSS**
    - Introdução a CSS Modules e estilização isolada para componentes.
    - Introdução ao Styled Components e ao conceito de CSS-in-JS.
 
-### **17. Aula 17: Integração de APIs e Autenticação com React**
+### **15. Aula 17: Integração de APIs e Autenticação com React**
    - Consumo de APIs para autenticação de usuários.
    - Introdução a JWT (JSON Web Token) para controle de autenticação.
 
-### **18. Aula 18: Autenticação e Proteção de Rotas**
+### **16. Aula 18: Autenticação e Proteção de Rotas**
    - Implementação de rotas protegidas com React Router.
    - Gerenciamento de estados de autenticação em aplicativos React.
+
+### **17. Aula 14: Revisão Geral e Seminário (2)**
+   - Revisão dos conteúdos abordados nas aulas 8 a 16.
+   - Apresentação de seminários pelos alunos.
+   - Discussão em grupo e feedback.
+
+### **18. Aula 15: Prova 2**
+   - Prova teórica e prática sobre os conteúdos das aulas 8 a 13.
 
 ### **19. Aula 19: Trabalho de Extensão e Atividades AVA**
    - Desenvolvimento do projeto prático individual (site pessoal).
@@ -196,7 +194,6 @@ NF = 0,8 + 0,75 + 1,8 + 0,75 + 0,85 + 1,9 + 2,0 = **8,85**
    - Entrega e apresentação final do trabalho de extensão (site pessoal).
    - Revisão dos conceitos com base nos trabalhos apresentados.
    - Atribuição da **Nota de Cara** (comportamento, engajamento e participação).
-
 
 ---
 
