@@ -49,38 +49,44 @@ Desenvolver sites estáticos e aplicativos web dinâmicos, utilizando JavaScript
 ## Avaliações (NF)
 
 Considerando:
-- **Prova** com peso de 20%;
+- **Prova 1** com peso de 10%;
+- **Prova 2** com peso de 10%;
 - **Atividades AVA e sala** com peso de 20%;
-- **Seminário** com peso de 20%;
+- **Seminário 1** com peso de 10%;
+- **Seminário 2** com peso de 10%;
 - **Trabalho de Extensão** com peso de 20%;
 - **NC (Nota de Cara)** com peso de 20%.
 
 ### Fórmula Geral:
 
-NF = (0,20 × P) + (0,20 × AVA) + (0,20 × S) + (0,20 × TE) + (0,20 × NC)
+NF = (0,10 × P1) + (0,10 × P2) + (0,20 × AVA) + (0,10 × S1) + (0,10 × S2) + (0,20 × TE) + (0,20 × NC)
 
 #### Onde:
-- **P** = Nota da prova;
+- **P1** = Nota da Prova 1;
+- **P2** = Nota da Prova 2;
 - **AVA** = Média das atividades AVA e de sala;
-- **S** = Nota do seminário;
-- **TE** = Nota do trabalho de extensão;
+- **S1** = Nota do Seminário 1;
+- **S2** = Nota do Seminário 2;
+- **TE** = Nota do Trabalho de Extensão;
 - **NC** = Nota de Cara.
 
 ### Exemplo de Cálculo:
 
 Se um aluno obteve as seguintes notas:
 
-- **P** = 8,0
+- **P1** = 8,0
+- **P2** = 7,5
 - **AVA** = 9,0
-- **S** = 7,5
+- **S1** = 7,5
+- **S2** = 8,5
 - **TE** = 9,5
 - **NC** = 10,0
 
 Então:
 
-NF = (0,20 × 8,0) + (0,20 × 9,0) + (0,20 × 7,5) + (0,20 × 9,5) + (0,20 × 10,0)
+NF = (0,10 × 8,0) + (0,10 × 7,5) + (0,20 × 9,0) + (0,10 × 7,5) + (0,10 × 8,5) + (0,20 × 9,5) + (0,20 × 10,0)
 
-NF = 1,6 + 1,8 + 1,5 + 1,9 + 2,0 = **8,8**
+NF = 0,8 + 0,75 + 1,8 + 0,75 + 0,85 + 1,9 + 2,0 = **8,85**
 
 
 ## Boas Práticas e Links Úteis
@@ -98,64 +104,99 @@ NF = 1,6 + 1,8 + 1,5 + 1,9 + 2,0 = **8,8**
 - **Recursos Adicionais**: Fiquem atentos aos materiais complementares que serão disponibilizados ao longo do curso.
 - **Avaliações**: As provas serão realizadas nas aulas 6 e 15, divididas em metade da aula para prova teórica e metade para prova prática.
 
-## Estrutura de Aulas (Início: 23/09/2024 – Encerramento: 02/12/2024)
+## Estrutura de Aulas (23/09/2024 a 08/03/2025)
 
-1. **Aula 1: Introdução ao Desenvolvimento Web** – *23/09/2024*
+## Estrutura de Aulas (20 encontros)
+
+### **1. Aula 1: Introdução ao Desenvolvimento Web**
    - Revisão rápida de HTML e CSS.
    - Estrutura básica de uma página web.
    - Criação de uma página simples com HTML e CSS.
 
-2. **Aula 2: Introdução ao JavaScript** – *30/09/2024*
-   - Conceitos básicos: variáveis, tipos de dados e operadores.
-   - Manipulação do DOM (Document Object Model).
+### **2. Aula 2: Fundamentos de JavaScript**
+   - Introdução ao JavaScript: conceitos básicos (variáveis, tipos de dados e operadores).
    - Inserção de scripts em páginas HTML.
+   - Manipulação básica do DOM (Document Object Model).
 
-3. **Aula 3: Funções e Eventos em JavaScript** – *07/10/2024*
+### **3. Aula 3: Funções e Eventos em JavaScript**
    - Declaração e invocação de funções.
    - Manipulação de eventos (click, submit, etc.).
-   - Validação simples de formulários.
+   - Validação simples de formulários com JavaScript.
 
-4. **Aula 4: Arrays, Objetos e Loops em JavaScript - Consumo de APIs com JavaScript** – *14/10/2024*
+### **4. Aula 4: Arrays e Objetos em JavaScript**
    - Criação e manipulação de arrays.
    - Criação de objetos e acesso a propriedades.
    - Iteração com loops (`for`, `while`).
+
+### **5. Aula 5: Consumo de APIs com JavaScript**
    - Introdução a APIs e formatos de dados (JSON).
    - Requisições HTTP usando `fetch` API.
    - Manipulação e apresentação de dados recebidos.
 
-5. **Aula 5: Seminário (Avaliação)** – *21/10/2024*
-   - Apresentação de seminários pelos alunos sobre os temas das aulas anteriores.
+### **6. Aula 6: Revisão Geral e Seminário (1)**
+   - Revisão dos conteúdos abordados nas aulas 1 a 5.
+   - Apresentação de seminários pelos alunos.
    - Discussão em grupo e feedback.
 
-6. **Aula 6: Introdução ao React** – *30/10/2024*
+### **7. Aula 7: Prova 1**
+   - Prova teórica e prática sobre os conteúdos das aulas 1 a 5.
+
+### **8. Aula 8: Introdução ao React**
    - Conceitos fundamentais do React.
-   - Configuração do ambiente com `create-react-app`.
-   - Criação do primeiro componente React.
-   - Sintaxe JSX.
+   - Instalação e configuração do ambiente com `create-react-app`.
+   - Introdução ao JSX e criação do primeiro componente React.
+
+### **9. Aula 9: Componentes em React**
    - Componentes funcionais e composição de componentes.
+   - Sintaxe JSX detalhada e boas práticas na criação de componentes.
 
-7. **Aula 7: React** – *18/11/2024*
-   - Uso do `useState` para gerenciamento de estado.
-   - Consumindo API usando react.
+### **10. Aula 10: Estado e Ciclo de Vida em React**
+   - Uso do `useState` para gerenciamento de estado local.
+   - Introdução ao ciclo de vida de componentes com o hook `useEffect`.
 
-9. **Aula 9: Trabalho de Extensão e Atividades** – *25/11/2024*
-   - **Prova final** teórica e prática, cobrindo os conteúdos de React e integração de APIs.
-   - Avaliação das atividades realizadas no AVA e sala de aula.
-   
-10. **Aula 10: Entrega trabalho e Nota de Cara (NC)** – *02/12/2024*
-    - Entrega do **trabalho de extensão** (site pessoal).
-    - Apresentação final do projeto prático (site pessoal).
-    - Revisão dos conceitos com base nos trabalhos apresentados.
-    - Atribuição da **Nota de Cara** (comportamento, engajamento e participação).
+### **11. Aula 11: Comunicação entre Componentes**
+   - Passagem de dados entre componentes via `props`.
+   - Levantamento de estado (lifting state up) para comunicação entre componentes pai e filho.
 
----
+### **12. Aula 12: Consumindo APIs com React**
+   - Consumo de APIs dentro de componentes React.
+   - Gerenciamento de estados de carregamento e erro durante a requisição.
+   - Apresentação dinâmica dos dados obtidos.
 
-### Datas de Avaliação:
-- **Seminário (S1)**: *21/10/2024*
-- **Atividades (A1)**: *18/11/2024*
-- **Trabalho de Extensão (T1)**: *18/11/2024*
-- **Prova Final (P1)**: *25/11/2024*
-- **Nota de Cara (NK)**: *02/12/2024*
+### **13. Aula 13: Roteamento em React**
+   - Introdução ao `react-router-dom`.
+   - Criação de rotas e navegação entre páginas.
+   - Rotas aninhadas e passagem de parâmetros.
+
+### **14. Aula 14: Revisão Geral e Seminário (2)**
+   - Revisão dos conteúdos abordados nas aulas 8 a 13.
+   - Apresentação de seminários pelos alunos.
+   - Discussão em grupo e feedback.
+
+### **15. Aula 15: Prova 2**
+   - Prova teórica e prática sobre os conteúdos das aulas 8 a 13.
+
+### **16. Aula 16: Estilização de Componentes com CSS**
+   - Introdução a CSS Modules e estilização isolada para componentes.
+   - Introdução ao Styled Components e ao conceito de CSS-in-JS.
+
+### **17. Aula 17: Integração de APIs e Autenticação com React**
+   - Consumo de APIs para autenticação de usuários.
+   - Introdução a JWT (JSON Web Token) para controle de autenticação.
+
+### **18. Aula 18: Autenticação e Proteção de Rotas**
+   - Implementação de rotas protegidas com React Router.
+   - Gerenciamento de estados de autenticação em aplicativos React.
+
+### **19. Aula 19: Trabalho de Extensão e Atividades AVA**
+   - Desenvolvimento do projeto prático individual (site pessoal).
+   - Finalização das atividades realizadas no AVA e sala de aula.
+
+### **20. Aula 20: Entrega Final e Nota de Cara**
+   - Entrega e apresentação final do trabalho de extensão (site pessoal).
+   - Revisão dos conceitos com base nos trabalhos apresentados.
+   - Atribuição da **Nota de Cara** (comportamento, engajamento e participação).
+
 
 ---
 
